@@ -3,7 +3,7 @@ module StartApp ( start, Config, App ) where
 It assumes you are following [the Elm Architecture][arch] and using
 [elm-effects][]. From there it will wire everything up for you!
 
-**Be sure to [read the Elm Architecture tutorial][arch] to learn how this all
+**Be sure to [read the Elm Architecture tutorial][arch] to learn how this
 works!**
 
 [arch]: https://github.com/evancz/elm-architecture-tutorial
